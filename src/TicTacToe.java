@@ -139,6 +139,7 @@ import java.util.*;
         List<List> winning = new ArrayList<List>();
         winning.add(topRow);
         winning.add(midRow);
+        winning.add(botRow);
         winning.add(leftCol);
         winning.add(midCol);
         winning.add(rightCol);
